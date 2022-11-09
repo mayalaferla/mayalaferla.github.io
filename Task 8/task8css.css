@@ -1,0 +1,33 @@
+h4{
+    
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family:'Source Sans Pro Light';
+    color:#3098dd;  
+}
+
+h2{
+    font-family: 'Source Sans Pro';
+    color: #354b63;
+    font-size: 26px;
+}
+
+body{
+    width: 1000px;
+    font-family: 'Source Sans Pro';
+    margin: auto;
+    border: 20px solid #bdc7cf;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.firstparagraph{
+
+border-left: 6px solid #bdc7cf;
+
+
+}
+
+.text{
+    margin-left: 5px;
+}
